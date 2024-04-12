@@ -5,15 +5,13 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 ## Google Colab
 
-<!--
-- Notebook 1.2 on graph neural networks (GNN): <a href="">
+- Notebook 1.2 on graph neural networks (GNN): <a href="https://colab.research.google.com/drive/1WsQRzTaUxV9jRhtmy7aVuLPlbyt8O0KZ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 2.2 on NLP with Hugging Face: <a href="">
+- Notebook 2.2 on NLP with Hugging Face: <a href="https://colab.research.google.com/drive/1tOjTf8C7cPMqHjNfxAmPBKE9rwhA3HWM">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
--->
 
 
 ## Suggested external resources
