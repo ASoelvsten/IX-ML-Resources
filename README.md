@@ -22,7 +22,9 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 - Notebook 3.2 on GANs: TBA
 
-- Notebook 4.1 on Bayesian Neural Networks: TBA
+- Notebook 4.1 on Bayesian Neural Networks: <a href="https://colab.research.google.com/drive/1ZInfxi9Oe9kSazrHCEd4ywMeS1D0vB5-?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 - Notebook 5.1 on clustering: TBA
 
