@@ -48,5 +48,3 @@ For **post-course reading** on any of the topics covered in the lectures, we rec
 - The book Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville and Francis Bach
 
 Insightful introductions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/).
-                                                                                                                                                                                          105,1         Bot
-
