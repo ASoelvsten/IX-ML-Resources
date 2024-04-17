@@ -4,7 +4,9 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 ## Google Colab
 
-- Notebook 1.1 on graphs: TBA
+- Notebook 1.1 on graphs: <a href="https://colab.research.google.com/drive/1zpEpvSOnt9poCdKRyw9X4wl4McDaVGjY?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 - Notebook 1.2 on graph neural networks (GNNs): <a href="https://colab.research.google.com/drive/1WsQRzTaUxV9jRhtmy7aVuLPlbyt8O0KZ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -26,7 +28,11 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 - Notebook 3.3 on flow-based generative models (normalising flows): TBA
 
-- Notebook 4.1 on Bayesian Neural Networks: <a href="https://colab.research.google.com/drive/1ZInfxi9Oe9kSazrHCEd4ywMeS1D0vB5-?usp=sharing">
+- Notebook 4.1 on Bayesian statistics and sampling schemes: <a href="https://colab.research.google.com/drive/1uPuhOOrIAB8ZrotuTfnLjK2Lel9hX_db?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+- Notebook 4.2 on Bayesian Neural Networks: <a href="https://colab.research.google.com/drive/1ZInfxi9Oe9kSazrHCEd4ywMeS1D0vB5-?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -36,6 +42,9 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 - Notebook 7.1 on recurrent neural networks (RNNs): TBA
 
+- Notebook 8.1 on Emulators (surrogate models): TBA
+
+- Notebook 9.1 on JAX: TBA
 
 ## Suggested external resources
 
