@@ -4,6 +4,10 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 ## Google Colab
 
+Below you will find the links to different notebooks on Google Colab sorted by topic.
+
+### Graphs
+
 - Notebook 1.1 on graphs: <a href="https://colab.research.google.com/drive/1zpEpvSOnt9poCdKRyw9X4wl4McDaVGjY?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -11,6 +15,8 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 - Notebook 1.2 on graph neural networks (GNNs): <a href="https://colab.research.google.com/drive/1WsQRzTaUxV9jRhtmy7aVuLPlbyt8O0KZ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### Transformers (and NLP)
 
 - Notebook 2.1 on natural language processing (NLP): <a href="https://colab.research.google.com/drive/1eq4L-pu-33S9KBWksJOKJjHrDPNr9lD9?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -22,11 +28,17 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 - Notebook 2.3 on Transformers: TBA
 
+- Notebook 2.4 on recurrent neural networks (RNNs): TBA
+
+### Encoders & decoders (image generation)
+
 - Notebook 3.1 on variational autoencoders (VAEs): TBA
 
 - Notebook 3.2 on generative adversarial networks (GANs): TBA
 
 - Notebook 3.3 on flow-based generative models (normalising flows): TBA
+
+### Inference methods
 
 - Notebook 4.1 on Bayesian statistics and sampling schemes: <a href="https://colab.research.google.com/drive/1uPuhOOrIAB8ZrotuTfnLjK2Lel9hX_db?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -36,19 +48,17 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 5.1 on clustering: TBA
+- Notebook 5.1 on SBI: TBA
+
+- Notebook 5.2 on Emulators (surrogate models): TBA
+
+### PINNs
 
 - Notebook 6.1 on physics informed neural networks (PINNs): TBA
 
-- Notebook 7.1 on recurrent neural networks (RNNs): TBA
+### JAX
 
-- Notebook 8.1 on Emulators (surrogate models): TBA
-
-- Notebook 9.1 on SBIT: TBA
-
-- Notebook 10.1 on JAX: TBA
-
-
+- Notebook 7.1 on JAX: TBA
 
 ## Suggested external resources
 
