@@ -44,13 +44,17 @@ This course introduces advanced topics in Deep Learning. It builds on  RCDS cour
 
 - Notebook 8.1 on Emulators (surrogate models): TBA
 
-- Notebook 9.1 on JAX: TBA
+- Notebook 9.1 on SBIT: TBA
+
+- Notebook 10.1 on JAX: TBA
+
+
 
 ## Suggested external resources
 
 For a general introduction to Deep Learning, please see
 
-- the RCDS course [Deep Learning with Python](https://github.com/ASoelvsten/RCDS-Deep-Learning-CNN).
+- the RCDS course [Deep Learning with Python](https://github.com/ImperialCollegeLondon/RCDS-Deep-Learning-CNN).
 
 For more information on PyTorch, see also [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/).
 
