@@ -28,7 +28,7 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 2.3 on Transformers: TBA
+- Notebook 2.3 on Transformers: See a <a href=https://github.com/alice-malivert/Tutorial_transformers/tree/main>notebook</a> by one of our fellows, Alice Malivert
 
 - Notebook 2.4 on recurrent neural networks (RNNs): TBA
 
