@@ -8,11 +8,11 @@ Below you will find the links to different notebooks on Google Colab sorted by t
 
 ### Graphs
 
-- Notebook 1.1 on graphs: <a href="https://colab.research.google.com/drive/1zpEpvSOnt9poCdKRyw9X4wl4McDaVGjY?usp=sharing">
+- Notebook on graphs: <a href="https://colab.research.google.com/drive/1zpEpvSOnt9poCdKRyw9X4wl4McDaVGjY?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 1.2 on graph neural networks (GNNs): <a href="https://colab.research.google.com/drive/1WsQRzTaUxV9jRhtmy7aVuLPlbyt8O0KZ?usp=sharing">
+- Notebook on graph neural networks (GNNs): <a href="https://colab.research.google.com/drive/1WsQRzTaUxV9jRhtmy7aVuLPlbyt8O0KZ?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -20,51 +20,41 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
 
 ### Transformers (and NLP)
 
-- Notebook 2.1 on natural language processing (NLP): <a href="https://colab.research.google.com/drive/1eq4L-pu-33S9KBWksJOKJjHrDPNr9lD9?usp=sharing">
+- Notebook on natural language processing (NLP): <a href="https://colab.research.google.com/drive/1eq4L-pu-33S9KBWksJOKJjHrDPNr9lD9?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 2.2 on NLP with Hugging Face: <a href="https://colab.research.google.com/drive/1tOjTf8C7cPMqHjNfxAmPBKE9rwhA3HWM">
+- Notebook on NLP with Hugging Face: <a href="https://colab.research.google.com/drive/1tOjTf8C7cPMqHjNfxAmPBKE9rwhA3HWM">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 2.3 on Transformers: See a <a href=https://github.com/alice-malivert/Tutorial_transformers/tree/main>notebook</a> by one of our fellows, Alice Malivert
+- Notebook on Transformers: See a <a href=https://github.com/alice-malivert/Tutorial_transformers/tree/main>notebook</a> by one of our fellows, Alice Malivert
 
-- Notebook 2.4 on recurrent neural networks (RNNs): TBA
+- Notebook on recurrent neural networks (RNNs): TBA
 
 ### Encoders & decoders (image generation)
 
-- Notebook 3.1 on variational autoencoders (VAEs): TBA
+- Notebook on variational autoencoders (VAEs): TBA
 
-- Notebook 3.2 on generative adversarial networks (GANs): TBA
+- Notebook on generative adversarial networks (GANs): TBA
 
-- Notebook 3.3 on flow-based generative models (normalising flows): TBA
+- Notebook on flow-based generative models (normalising flows): TBA
 
 ### Inference methods
 
-- Notebook 4.1 on Bayesian statistics and sampling schemes: <a href="https://colab.research.google.com/drive/1uPuhOOrIAB8ZrotuTfnLjK2Lel9hX_db?usp=sharing">
+- Notebook on Bayesian statistics and sampling schemes: <a href="https://colab.research.google.com/drive/1uPuhOOrIAB8ZrotuTfnLjK2Lel9hX_db?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 4.2 on Bayesian Neural Networks: <a href="https://colab.research.google.com/drive/1ZInfxi9Oe9kSazrHCEd4ywMeS1D0vB5-?usp=sharing">
+- Notebook on Bayesian Neural Networks: <a href="https://colab.research.google.com/drive/1ZInfxi9Oe9kSazrHCEd4ywMeS1D0vB5-?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 4.3 on additional examples for multivariate distributions: <a href="https://colab.research.google.com/drive/1JIlhfcQiXIQ50dgmebfwRmtKxhEWbSIH?usp=sharing">
+- Notebook on additional examples for multivariate distributions: <a href="https://colab.research.google.com/drive/1JIlhfcQiXIQ50dgmebfwRmtKxhEWbSIH?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- Notebook 5.1 on SBI: TBA
-
-- Notebook 5.2 on Emulators (surrogate models): TBA
-
-### PINNs
-
-- Notebook 6.1 on physics informed neural networks (PINNs): TBA
-
-### JAX
-
-- Notebook 7.1 on JAX: TBA
+- [GitHub repository](https://github.com/austin-mroz/2024-BO-summer-school/blob/main/tutorial-notebooks/SargentBOSummerSchool_BayBE.ipynb) by one of our fellows, Austin Mroz, on Bayesian optimisation.  
 
 ### Reinforcement learning
 
