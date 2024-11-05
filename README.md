@@ -30,16 +30,6 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
 
 - Notebook on Transformers: See a <a href=https://github.com/alice-malivert/Tutorial_transformers/tree/main>notebook</a> by one of our fellows, Alice Malivert
 
-- Notebook on recurrent neural networks (RNNs): TBA
-
-### Encoders & decoders (image generation)
-
-- Notebook on variational autoencoders (VAEs): TBA
-
-- Notebook on generative adversarial networks (GANs): TBA
-
-- Notebook on flow-based generative models (normalising flows): TBA
-
 ### Inference methods
 
 - Notebook on Bayesian statistics and sampling schemes: <a href="https://colab.research.google.com/drive/1uPuhOOrIAB8ZrotuTfnLjK2Lel9hX_db?usp=sharing">
