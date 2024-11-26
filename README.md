@@ -18,6 +18,8 @@ Below you will find the links to different notebooks on Google Colab sorted by t
 
 See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with examples in PyTorch Geometric. The course can be found on [YouTube](https://www.youtube.com/watch?v=D_QZy_s5HRI).
 
+See also the notebooks by one of our fellows, Daniel Platt, on [invariant machine learning](https://github.com/danielplatt/Invariant-ML-Intro?tab=readme-ov-file).
+
 ### Transformers (and NLP)
 
 - Notebook on natural language processing (NLP): <a href="https://colab.research.google.com/drive/1eq4L-pu-33S9KBWksJOKJjHrDPNr9lD9?usp=sharing">
