@@ -1,4 +1,5 @@
-# I-X, Deep Learning with Python (advanced topics)
+# I-X Centre for AI in Science 
+# Resources on Machine Learning and Deep Learning with Python (advanced topics)
 
 This course introduces advanced topics in Deep Learning. It builds on  RCDS course [Deep Learning with Python](https://github.com/ASoelvsten/RCDS-Deep-Learning-CNN), and it is hence assumed that you are familiar with the basic PyTorch commands and Deep Learning concepts and terminology. In this course, we will explore more complex algorithms, ranging from graph neural networks (GNNs) over variational autoencoders (VAEs) to Bayesian neural networks. The course thus aim to present the breadth of Deep Learning techniques as well as to provide useful references for follow-up studies of the individual topics.
 
@@ -60,7 +61,7 @@ For a general introduction to Deep Learning, please see
 
 For more information on PyTorch, see also [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/).
 
-For **post-course reading** on any of the topics covered in the lectures, we recommend
+We also recommend
 
 - The book [Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang et al. (includes coding tutorials)
 
