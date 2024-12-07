@@ -68,4 +68,6 @@ We also recommend
 
 - The book Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville and Francis Bach
 
+- The book [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon J.D. Prince.
+
 Insightful introductions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/). Moreover, I recommend the YouTube channel by the [University of Tübingen](https://www.youtube.com/@TubingenML) on machine-learning topics in general.
