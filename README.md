@@ -20,6 +20,10 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
 
 See also the notebooks by one of our fellows, Daniel Platt, on [invariant machine learning](https://github.com/danielplatt/Invariant-ML-Intro?tab=readme-ov-file).
 
+- Notebook on model selection for phylodynamics by Manolo Fernandez Perez, one of our fellows: <a href="https://colab.research.google.com/drive/1FsDxRyA6WyrQ2BSlBnNp4XmUoKLegngH#scrollTo=UHJ4e3HKDpnr">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ### Transformers (and NLP)
 
 - Notebook on natural language processing (NLP): <a href="https://colab.research.google.com/drive/1eq4L-pu-33S9KBWksJOKJjHrDPNr9lD9?usp=sharing">
@@ -73,5 +77,7 @@ We also recommend
 - The book Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville and Francis Bach
 
 - The book [Understanding Deep Learning](https://udlbook.github.io/udlbook/) by Simon J.D. Prince.
+
+- Fellows enjoyed the [YouTube Course](https://www.youtube.com/watch?v=tFR6Likf4VI&list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U) on unsupervised ML by UC Berkeley.
 
 Insightful introductions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/). Moreover, I recommend the YouTube channel by the [University of Tübingen](https://www.youtube.com/@TubingenML) on machine-learning topics in general.
