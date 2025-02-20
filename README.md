@@ -60,6 +60,10 @@ Have a look at the [book](https://www.marl-book.com/) by S. V. Albrecht and [blo
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+### More on Deep Learning
+
+- Notebook by one of our fellows, Lloyd Fung, on Echo State Networks (ESN) can be found on [https://github.com/llfung/ESN-workshop](GitHub).
+
 ## Suggested external resources
 
 For a general introduction to Deep Learning, please see
