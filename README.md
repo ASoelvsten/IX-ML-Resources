@@ -18,6 +18,10 @@ Below you will find the links to different notebooks on Google Colab sorted by t
 
 See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with examples in PyTorch Geometric. The course can be found on [YouTube](https://www.youtube.com/watch?v=D_QZy_s5HRI).
 
+- Notebook by one of our fellows, Sam Hillman, on predicting polymers: <a href="https://colab.research.google.com/drive/1QZO_8FWa14oZzon8L9FcX5WJg8dhzIXZ">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 See also the notebooks by one of our fellows, Daniel Platt, on [invariant machine learning](https://github.com/danielplatt/Invariant-ML-Intro?tab=readme-ov-file).
 
 - Notebook on model selection for phylodynamics by Manolo Fernandez Perez, one of our fellows: <a href="https://colab.research.google.com/drive/1FsDxRyA6WyrQ2BSlBnNp4XmUoKLegngH#scrollTo=UHJ4e3HKDpnr">
@@ -62,9 +66,11 @@ Have a look at the [book](https://www.marl-book.com/) by S. V. Albrecht and [blo
 
 ### More on Deep Learning
 
+See also the notebooks by one of our fellows, Daniel Platt, on [invariant machine learning](https://github.com/danielplatt/Invariant-ML-Intro?tab=readme-ov-file).
+
 - Notebook by one of our fellows, Lloyd Fung, on Echo State Networks (ESN) can be found on [https://github.com/llfung/ESN-workshop](GitHub).
 
-- Notebook by one of our fellows, Sam Hillman, on predicting polymers: <a href="https://colab.research.google.com/drive/1QZO_8FWa14oZzon8L9FcX5WJg8dhzIXZ">
+- Notebook on model selection for phylodynamics by Manolo Fernandez Perez, one of our fellows: <a href="https://colab.research.google.com/drive/1FsDxRyA6WyrQ2BSlBnNp4XmUoKLegngH#scrollTo=UHJ4e3HKDpnr">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
