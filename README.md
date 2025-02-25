@@ -22,12 +22,6 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-See also the notebooks by one of our fellows, Daniel Platt, on [invariant machine learning](https://github.com/danielplatt/Invariant-ML-Intro?tab=readme-ov-file).
-
-- Notebook on model selection for phylodynamics by Manolo Fernandez Perez, one of our fellows: <a href="https://colab.research.google.com/drive/1FsDxRyA6WyrQ2BSlBnNp4XmUoKLegngH#scrollTo=UHJ4e3HKDpnr">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 ### Transformers (and NLP)
 
 - Notebook on natural language processing (NLP): <a href="https://colab.research.google.com/drive/1eq4L-pu-33S9KBWksJOKJjHrDPNr9lD9?usp=sharing">
