@@ -68,6 +68,10 @@ See also the notebooks by one of our fellows, Daniel Platt, on [invariant machin
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+- Notebook on normalising flows: <a href="https://colab.research.google.com/drive/1MbdlM27cR2Ov9lJhDXvtXllvwbmJriJ4?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Suggested external resources
 
 For a general introduction to Deep Learning, please see
