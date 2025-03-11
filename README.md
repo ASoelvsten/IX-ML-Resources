@@ -34,6 +34,8 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
 
 - Notebook on Transformers: See a <a href=https://github.com/alice-malivert/Tutorial_transformers/tree/main>notebook</a> by one of our fellows, Alice Malivert
 
+- Notebook on LLM: See a <a href=https://colab.research.google.com/drive/1neBWDAXIal_ZgR68uEjvvLqgZbE0UBX3?usp=sharing>notebook</a> by one of our fellows, Sara Veneziale
+
 ### Inference methods
 
 - Notebook on Bayesian statistics and sampling schemes: <a href="https://colab.research.google.com/drive/1uPuhOOrIAB8ZrotuTfnLjK2Lel9hX_db?usp=sharing">
