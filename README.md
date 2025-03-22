@@ -1,8 +1,8 @@
 # I-X Centre for AI in Science - Resources on Machine Learning and Deep Learning with Python (advanced topics)
 
-This course introduces advanced topics in Deep Learning. It builds on  RCDS course [Deep Learning with Python](https://github.com/ASoelvsten/RCDS-Deep-Learning-CNN), and it is hence assumed that you are familiar with the basic PyTorch commands and Deep Learning concepts and terminology. In this course, we will explore more complex algorithms, ranging from graph neural networks (GNNs) over variational autoencoders (VAEs) to Bayesian neural networks. The course thus aim to present the breadth of Deep Learning techniques as well as to provide useful references for follow-up studies of the individual topics.
+This repository provides resources for exploring various advanced topics in machine learning and deep learning, including algorithms such as Graph Neural Networks (GNNs), Bayesian Neural Networks, and Reinforcement Learning. Alongside examples and exercises, external resources are listed to help deepen your understanding or cover foundational concepts. eFor an introduction to PyTorch, used in several of the notebooks below, check out the RCDS course [Deep Learning with Python](https://github.com/ImperialCollegeLondon/RCDS-Deep-Learning-CNN) and its references.
 
-## Example and exercies, Google Colab
+## Examples and exercises, Google Colab
 
 Below you will find the links to different notebooks on Google Colab sorted by topic. You can find more examples based on the fellow's mini-course series in the folder MINI-COURSES.
 
