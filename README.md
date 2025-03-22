@@ -66,7 +66,7 @@ Have a look at the [book](https://www.marl-book.com/) by S. V. Albrecht and [blo
 
 See also the notebooks by one of our fellows, Daniel Platt, on [invariant machine learning](https://github.com/danielplatt/Invariant-ML-Intro?tab=readme-ov-file).
 
-- Notebook by one of our fellows, Lloyd Fung, on Echo State Networks (ESN) can be found on [https://github.com/llfung/ESN-workshop](GitHub).
+- Notebook _in Julia_ by one of our fellows, Lloyd Fung, on Echo State Networks (ESN) can be found on an external [GitHub repository](https://github.com/llfung/ESN-workshop).
 
 - Notebook on model selection for phylodynamics by Manolo Fernandez Perez, one of our fellows: <a href="https://colab.research.google.com/drive/1FsDxRyA6WyrQ2BSlBnNp4XmUoKLegngH#scrollTo=UHJ4e3HKDpnr">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
