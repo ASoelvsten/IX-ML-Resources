@@ -56,7 +56,7 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
 
 ### Reinforcement learning
 
-Have a look at the [book](https://www.marl-book.com/) by S. V. Albrecht and [blog](https://agents.inf.ed.ac.uk/blog/) by the Autonomous Agents Research Group.
+Have a look at the [book](https://www.marl-book.com/) by S. V. Albrecht and [blog](https://agents-lab.org/blog/) by the Autonomous Agents Research Group.
 
 - Notebook by one of our fellows, Zhenzhu Li: <a href="https://colab.research.google.com/drive/1Susha8cbwh1Y7ahsa-tpq-3JS604pplF?usp=sharing#scrollTo=r6MNuoz4yiz3">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
