@@ -96,4 +96,4 @@ We also recommend
 
 - Fellows enjoyed the [YouTube Course](https://www.youtube.com/watch?v=tFR6Likf4VI&list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U) on unsupervised ML by UC Berkeley.
 
-Insightful introductions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/). Moreover, I recommend the YouTube channel by the [University of Tübingen](https://www.youtube.com/@TubingenML) on machine-learning topics in general.
+Insightful introductions to topics in Deep Learning can also be found on [https://distill.pub/](https://distill.pub/). Moreover, I recommend the YouTube channel by the [University of Tübingen](https://www.youtube.com/c/T%C3%BCbingenML) on machine-learning topics in general.
