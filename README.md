@@ -4,7 +4,7 @@ This repository provides resources for exploring various advanced topics in mach
 
 ## Examples and exercises, Google Colab
 
-Below you will find the links to different notebooks on Google Colab sorted by topic. You can find more examples based on the fellow's mini-course series in the folder MINI-COURSES.
+Below you will find the links to different notebooks on Google Colab sorted by topic.
 
 ### Graphs
 
