@@ -52,6 +52,10 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+- Notebook on simulation-based inference (SBI) by one of our fellows, Calum Gabbutt: <a href="https://colab.research.google.com/github/CalumGabbutt/IX-tutorial-CG-SBI/blob/main/IX_tutorial_CG_SBI.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
 - [GitHub repository](https://github.com/austin-mroz/2024-BO-summer-school/blob/main/tutorial-notebooks/SargentBOSummerSchool_BayBE.ipynb) by one of our fellows, Austin Mroz, on Bayesian optimisation.  
 
 ### Reinforcement learning
