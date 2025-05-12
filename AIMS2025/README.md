@@ -6,6 +6,10 @@ Several of our fellows taught a 3-week course for Master's students at AIMS Sout
 
 - Pranav Mamidanna: Introduction to neural simulation-based inference from scratch. The material can be found on [GitHub](https://github.com/pranavm19/SBI-Tutorial).
 
+## Earth Science & Engineering
+
+- Ben Moseley: Symbolic regression with deep neural networks. The material can be found on [GitHub](https://github.com/benmoseley/symbolic-regression-with-deep-neural-networks-workshop).
+
 ## Epidemiology
 
 - Oliver J. Watson: Training Deep Learning Surrogates for Infectious Disease Modelling. The material can be found on [GitHub](https://github.com/OJWatson/emidm/blob/main/examples/AIMS_surrogate_notebook.ipynb)
