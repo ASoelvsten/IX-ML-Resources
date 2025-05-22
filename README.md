@@ -4,7 +4,7 @@ This repository provides resources for exploring various advanced topics in mach
 
 ## Examples and exercises, Google Colab
 
-Below you will find the links to different notebooks on Google Colab sorted by topic.
+Below you will find the links to different notebooks on Google Colab sorted by topic. Links to more notebooks can be found in the folder AIMS2025.
 
 ### Graphs
 
