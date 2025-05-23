@@ -58,6 +58,8 @@ See also S. Azzolin: A hands-on introduction to Graph Deep Learning, with exampl
 
 - [GitHub repository](https://github.com/austin-mroz/2024-BO-summer-school/blob/main/tutorial-notebooks/SargentBOSummerSchool_BayBE.ipynb) by one of our fellows, Austin Mroz, on Bayesian optimisation.  
 
+- [GitHub repository](https://github.com/lhelleckes/bayesian-kinetics-tutorial) by one of our fellows, Laura Helleckes, on Bayesian kinetics.
+
 ### Reinforcement learning
 
 Have a look at the [book](https://www.marl-book.com/) by S. V. Albrecht and [blog](https://agents-lab.org/blog/) by the Autonomous Agents Research Group.
