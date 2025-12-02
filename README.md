@@ -82,9 +82,12 @@ See also the notebooks by one of our fellows, Daniel Platt, on [invariant machin
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
 - Notebook on Learning the Distribution of Calabi-Yau Volumens over Kähler Moduli Space by one of our fellows, Elli Heyes: <a href="https://colab.research.google.com/drive/10bJ_B4Kp8jc5V6XMj7a2Cf7rNZ64olN1?usp=sharing"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### Differentiable Programming
+
+- To learn about JAX, check out a [GitHub repository] by one of our fellows, Aidan Crilly.
 
 ## Suggested external resources
 
