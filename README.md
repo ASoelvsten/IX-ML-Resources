@@ -87,7 +87,7 @@ See also the notebooks by one of our fellows, Daniel Platt, on [invariant machin
 
 ### Differentiable Programming
 
-- To learn about JAX, check out a [GitHub repository] by one of our fellows, Aidan Crilly.
+- To learn about JAX, check out a [GitHub repository](https://github.com/aidancrilly/MiniCourse-DifferentiableSimulation?tab=readme-ov-file) by one of our fellows, Aidan Crilly.
 
 ## Suggested external resources
 
